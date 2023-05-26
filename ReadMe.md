@@ -1,3 +1,9 @@
+# Artificial Intelligence
+
+## CHAPTER 1 usecase is based on CHATGPT
+
+## CHAPTER 2 usecase is based on MIDJOURNEY
+
 # Prompt Mini Bible
 
 ### Therapist
