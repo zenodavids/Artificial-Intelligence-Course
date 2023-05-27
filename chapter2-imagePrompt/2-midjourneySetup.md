@@ -28,4 +28,4 @@ install it in your very own server for free.
 
 - 3 Add to Midjourney bot to server.
 
-> Add to server and grant permissions (if you’re okay with the data permissions. Then that’s it!. You can type the /imagine command to get started.
+> Add to server and grant permissions if you’re okay with the data permissions. Then that’s it!. You can type the /imagine command to get started.
